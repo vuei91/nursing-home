@@ -10,6 +10,7 @@ const Stack = createNativeStackNavigator();
 
 export default function App() {
   const [isLogin, setIsLogin] = useState(true);
+
   return (
     <NavigationContainer>
       <StatusBar barStyle={"default"} />
