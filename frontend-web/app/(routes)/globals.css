@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.mobile {
+    max-width: 480px;
+    width: 100%;
+    margin: auto;
+    border: 1px solid #eee;
+    background-color: #F7F9FC;
+    height: 100vh;
+    position: relative;
+}
+
+.bottom {
+    width: 100%;
+    max-width: 480px;
+    position: fixed;
+    bottom: 0;
+    border-top: solid 1px var(--adm-color-border);
+    background-color: white;
+    z-index: 2;
+}
+
+.container {
+    width: 100%;
+    position: relative;
+    top: 44px;
+    height: calc(100vh - 96px);
+    overflow-y: scroll;
+}
+
+.is_bottom {
+    height: calc(100vh - 135px);
+}
+
+.none_bottom {
+    height: calc(100vh - 48px);
+}
+
+.hospital-container {
+    width: 100%;
+    position: relative;
+    top: 48px;
+    height: calc(100vh - 220px);
+    overflow-y: scroll;
+}
+
+.top {
+    top: 0;
+    position: fixed;
+    background: white;
+    max-width: 480px;
+    width: 100%;
+    z-index: 2;
+}
+
+/* collapse padding 문제로 인한 checkbox checked 문제 해결*/
+.container .ant-collapse-header {
+    padding:0 !important;
+}
