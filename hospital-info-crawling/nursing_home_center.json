@@ -1,0 +1,2468 @@
+[
+  {
+    "id": 0,
+    "title": "무지개요양병원",
+    "category": "요양병원",
+    "tel": "031-916-1122",
+    "longitude": "126.7390830",
+    "latitude": "37.6970240",
+    "doctors": "가정의학과전문의 5명",
+    "address": "경기 고양시 일산서구 덕이로 212 백송프라자",
+    "webpage": "https://cafe.naver.com/zin1597",
+    "subject": "가정의학과|||한방내과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "09:00 - 12:30"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정기휴무 (매주 일요일)"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 18:00"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "연세나을요양병원",
+    "category": "요양병원",
+    "tel": "0507-1336-4188",
+    "longitude": "126.7776368",
+    "latitude": "37.6504751",
+    "doctors": "가정의학과전문의 2명",
+    "address": "경기 고양시 일산동구 장백로 174 지하1층~10층",
+    "webpage": "https://curecancer.modoo.at",
+    "subject": "가정의학과|||한방내과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 18:00\n13:00 - 14:00 휴게시간"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 18:00\n13:00 - 14:00 휴게시간"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 18:00\n13:00 - 14:00 휴게시간"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "10:00 - 16:00\n13:00 - 14:00 휴게시간"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "10:00 - 16:00\n13:00 - 14:00 휴게시간"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 18:00\n13:00 - 14:00 휴게시간"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 18:00\n13:00 - 14:00 휴게시간"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "동원요양병원",
+    "category": "요양병원",
+    "tel": "0507-1494-7006",
+    "longitude": "126.7780076",
+    "latitude": "37.6729980",
+    "doctors": "산부인과전문의 2명, 영상의학과전문의 1명",
+    "address": "경기 고양시 일산동구 일산로 439",
+    "webpage": "http://dongwonhospital.com/",
+    "subject": "산부인과|||영상의학과|||가정의학과|||내과|||한방내과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "09:00 - 13:00"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정기휴무 (매주 일요일)"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 18:00"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "차연요양병원",
+    "category": "요양병원",
+    "tel": "0507-1377-1058",
+    "longitude": "126.7710812",
+    "latitude": "37.6630287",
+    "doctors": "산부인과전문의 1명",
+    "address": "경기 고양시 일산동구 중앙로 1312",
+    "webpage": "http://www.chayeon.com/",
+    "subject": "산부인과|||한방내과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:30 - 18:30\n13:00 - 14:00 휴게시간"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:30 - 18:30\n13:00 - 14:00 휴게시간"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:30 - 18:30\n13:00 - 14:00 휴게시간"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "정기휴무 (매주 토요일)"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정기휴무 (매주 일요일)"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:30 - 18:30\n13:00 - 14:00 휴게시간"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:30 - 18:30\n13:00 - 14:00 휴게시간"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "효림요양병원",
+    "category": "요양병원",
+    "tel": "031-919-0041",
+    "longitude": "126.7584407",
+    "latitude": "37.6704860",
+    "doctors": "가정의학과전문의 2명",
+    "address": "경기 고양시 일산서구 주화로 88 효림빌딩",
+    "webpage": "https://blog.naver.com/hyorimlh",
+    "subject": "가정의학과|||내과|||사상체질과|||신경과|||외과|||재활의학과|||침구과|||피부과|||한방내과|||한방신경정신과|||한방재활의학과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 18:00\n12:00 - 13:00 휴게시간"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 18:00\n12:00 - 13:00 휴게시간"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 18:00\n12:00 - 13:00 휴게시간"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "10:00 - 17:00\n12:00 - 13:00 휴게시간"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정기휴무 (매주 일요일)"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 18:00\n12:00 - 13:00 휴게시간"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 18:00\n12:00 - 13:00 휴게시간"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "다스람요양병원",
+    "category": "요양병원",
+    "tel": "1800-5173",
+    "longitude": "126.7912256",
+    "latitude": "37.7119940",
+    "doctors": null,
+    "address": "경기 고양시 일산동구 성현로29번길 28-9",
+    "webpage": "http://medi-cancer.com/",
+    "subject": "",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 18:00\n13:00 - 14:00 휴게시간\n17:20 접수마감"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 18:00\n13:00 - 14:00 휴게시간\n17:20 접수마감"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 18:00\n13:00 - 14:00 휴게시간\n17:20 접수마감"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "09:00 - 13:00\n12:20 접수마감"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정기휴무 (매주 일요일)"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 18:00\n13:00 - 14:00 휴게시간\n17:20 접수마감"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 18:00\n13:00 - 14:00 휴게시간\n17:20 접수마감"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "일산사랑요양병원",
+    "category": "요양병원",
+    "tel": "0507-1315-8120",
+    "longitude": "126.7844063",
+    "latitude": "37.6447214",
+    "doctors": "내과전문의 2명, 재활의학과전문의 1명",
+    "address": "경기 고양시 일산동구 장백로 86 한경프라자 3층~7층",
+    "webpage": "http://www.일산사랑병원.com/",
+    "subject": "내과|||재활의학과|||소아청소년과|||신경외과|||외과|||이비인후과|||정형외과|||한방내과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 18:00\n12:30 - 13:30 휴게시간"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 18:00\n12:30 - 13:30 휴게시간"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 18:00\n12:30 - 13:30 휴게시간"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "09:00 - 12:00"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정기휴무 (매주 일요일)"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 18:00\n12:30 - 13:30 휴게시간"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 18:00\n12:30 - 13:30 휴게시간"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "일산현대요양병원",
+    "category": "요양병원",
+    "tel": "031-922-7575",
+    "longitude": "126.7981216",
+    "latitude": "37.6766556",
+    "doctors": "내과전문의 2명, 재활의학과전문의 1명",
+    "address": "경기 고양시 일산동구 무궁화로 346 지하1~2층,1~3층",
+    "webpage": "http://www.hyundaisilver.net/",
+    "subject": "내과|||재활의학과|||가정의학과|||병리과|||비뇨의학과|||소아청소년과|||신경과|||영상의학과|||이비인후과|||피부과|||한방내과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 17:30"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 17:30"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 17:30"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "09:00 - 13:00"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정보없음"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 17:30"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 17:30"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "로하스일산요양병원",
+    "category": "요양병원",
+    "tel": "031-976-2200",
+    "longitude": "126.7752334",
+    "latitude": "37.6849626",
+    "doctors": "내과전문의 1명",
+    "address": "경기 고양시 일산서구 일중로 59 일산마샬빌딩",
+    "webpage": "http://www.lohasilsan.co.kr/",
+    "subject": "내과|||가정의학과|||재활의학과|||한방내과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "09:00 - 13:00"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정기휴무 (매주 일요일)"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 18:00"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "향동포레요양병원",
+    "category": "요양병원",
+    "tel": "02-3158-3335",
+    "longitude": "126.8892014",
+    "latitude": "37.6008956",
+    "doctors": null,
+    "address": "경기 고양시 덕양구 향동로 123 전관",
+    "webpage": "https://향동포레.com",
+    "subject": "",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "09:00 - 13:00"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정기휴무 (매주 일요일)"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 18:00"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "새찬요양병원",
+    "category": "요양병원",
+    "tel": "031-979-2119",
+    "longitude": "126.8184670",
+    "latitude": "37.6215250",
+    "doctors": "정보 수정 제안하기",
+    "address": "경기 고양시 덕양구 토당로67번길 2",
+    "webpage": "https://blog.naver.com/go2382",
+    "subject": "",
+    "clinicHoursList": [
+      {
+        "weekName": "매일",
+        "weekTime": "00:00 - 24:00"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "자애요양병원",
+    "category": "요양병원",
+    "tel": "031-919-9942",
+    "longitude": "126.7655568",
+    "latitude": "37.6636899",
+    "doctors": "정형외과전문의 2명, 내과전문의 1명",
+    "address": "경기 고양시 일산동구 고봉로 20-21 양우로데오랜드 B동 3F~5F",
+    "webpage": "http://www.ilsanjaaehospital.com/",
+    "subject": "정형외과|||내과|||가정의학과|||신경외과|||외과|||재활의학과|||한방내과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "10:00 - 18:00\n12:30 - 13:30 휴게시간\n17:30 접수마감"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "10:00 - 18:00\n12:30 - 13:30 휴게시간\n17:30 접수마감"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "10:00 - 18:00\n12:30 - 13:30 휴게시간\n17:30 접수마감"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "정기휴무 (매주 토요일)"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정기휴무 (매주 일요일)"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "10:00 - 18:00\n12:30 - 13:30 휴게시간\n17:30 접수마감"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "10:00 - 18:00\n12:30 - 13:30 휴게시간\n17:30 접수마감"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "일산아르고요양병원",
+    "category": "요양병원",
+    "tel": "0507-1359-1844",
+    "longitude": "126.7869830",
+    "latitude": "37.6749414",
+    "doctors": "가정의학과전문의 1명, 재활의학과전문의 1명",
+    "address": "경기 고양시 일산동구 하늘마을1로 14 일산 조은프라자",
+    "webpage": "http://www.argoh.co.kr/",
+    "subject": "가정의학과|||재활의학과|||내과|||신경과|||한방내과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "10:00 - 17:00"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "10:00 - 17:00"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 18:00"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "고양센트럴요양병원",
+    "category": "요양병원",
+    "tel": "0507-1399-7809",
+    "longitude": "126.8299415",
+    "latitude": "37.6271987",
+    "doctors": "가정의학과전문의 1명, 재활의학과전문의 1명",
+    "address": "경기 고양시 덕양구 중앙로 620",
+    "webpage": "http://gycentral.co.kr",
+    "subject": "가정의학과|||재활의학과|||한방내과|||내과|||사상체질과|||신경과|||신경외과|||심장혈관흉부외과|||외과|||응급의학과|||정형외과|||침구과|||피부과|||한방부인과|||한방소아과|||한방신경정신과|||한방안·이비인후·피부과|||한방재활의학과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "09:00 - 13:00"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정보없음"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 18:00"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "로하스클로버요양병원",
+    "category": "요양병원",
+    "tel": "031-967-5050",
+    "longitude": "126.8375919",
+    "latitude": "37.6574779",
+    "doctors": "가정의학과전문의 1명, 재활의학과전문의 1명",
+    "address": "경기 고양시 덕양구 호국로 804 원당타운",
+    "webpage": "http://clover-hp.co.kr/",
+    "subject": "가정의학과|||재활의학과|||내과|||비뇨의학과|||영상의학과|||예방의학과|||외과|||이비인후과|||정신건강의학과|||정형외과|||침구과|||피부과|||한방내과|||한방재활의학과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "정기휴무 (매주 토요일)"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정기휴무 (매주 일요일)"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 18:00"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "일산참사랑요양병원",
+    "category": "요양병원",
+    "tel": "031-918-1070",
+    "longitude": "126.7677200",
+    "latitude": "37.6635029",
+    "doctors": "정보 수정 제안하기",
+    "address": "경기 고양시 일산동구 무궁화로 31-16 남정시티프라자 8차",
+    "webpage": "http://www.istruelove.co.kr/",
+    "subject": "한방재활의학과|||가정의학과|||내과|||비뇨의학과|||신경과|||이비인후과|||재활의학과|||피부과",
+    "clinicHoursList": [
+      {
+        "weekName": "매일",
+        "weekTime": "00:00 - 24:00"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "일산메디안요양병원",
+    "category": "요양병원",
+    "tel": "031-913-3119",
+    "longitude": "126.7483261",
+    "latitude": "37.6760623",
+    "doctors": "이용시간을 알려주세요.\n추가",
+    "address": "경기 고양시 일산서구 중앙로 1564 그린월드",
+    "webpage": "http://www.ilsanmedian.com/",
+    "subject": "가정의학과|||내과|||신경과|||재활의학과|||비뇨의학과|||소아청소년과|||신경외과|||외과|||이비인후과|||정형외과|||피부과|||한방내과",
+    "clinicHoursList": []
+  },
+  {
+    "id": 17,
+    "title": "자향요양병원",
+    "category": "요양병원",
+    "tel": "1661-8927",
+    "longitude": "126.8032749",
+    "latitude": "37.6617556",
+    "doctors": "정보 수정 제안하기",
+    "address": "경기 고양시 일산동구 백마로 490",
+    "webpage": "https://blog.naver.com/jahyanghospital",
+    "subject": "마취통증의학과|||방사선종양학과|||외과|||한방내과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 18:00\n12:00 - 13:00 휴게시간"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 18:00\n12:00 - 13:00 휴게시간"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 18:00\n12:00 - 13:00 휴게시간"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "09:00 - 11:30"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정기휴무 (매주 일요일)"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 18:00\n12:00 - 13:00 휴게시간"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 18:00\n12:00 - 13:00 휴게시간"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "이푸른요양병원",
+    "category": "요양병원",
+    "tel": "0507-1443-3340",
+    "longitude": "126.7816726",
+    "latitude": "37.6483477",
+    "doctors": "가정의학과전문의 1명, 내과전문의 1명 외 전문의 1명",
+    "address": "경기 고양시 일산동구 중앙로 1124 흰돌마을상가 4층",
+    "webpage": "https://blog.naver.com/e-purun",
+    "subject": "가정의학과|||내과|||재활의학과|||신경과|||신경외과|||외과|||정형외과|||침구과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "10:00 - 17:00"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "10:00 - 17:00"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "10:00 - 17:00"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "정기휴무 (매주 토요일)"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정기휴무 (매주 일요일)"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "10:00 - 17:00"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "10:00 - 17:00"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "강북성심요양병원",
+    "category": "요양병원",
+    "tel": "031-978-1122",
+    "longitude": "126.8353994",
+    "latitude": "37.6227551",
+    "doctors": "산부인과전문의 2명, 내과전문의 1명 외 전문의 2명",
+    "address": "경기 고양시 덕양구 중앙로557번길 7-14 원스톱라이프상가",
+    "webpage": "http://www.kbhsungsim.kr/",
+    "subject": "산부인과|||내과|||신경과|||재활의학과|||가정의학과|||비뇨의학과|||소아청소년과|||이비인후과|||침구과|||피부과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 18:00\n12:30 - 13:30 휴게시간"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 18:00\n12:30 - 13:30 휴게시간"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 18:00\n12:30 - 13:30 휴게시간"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "09:00 - 12:00"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정기휴무 (매주 일요일)"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 18:00\n12:30 - 13:30 휴게시간"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 18:00\n12:30 - 13:30 휴게시간"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "정안요양병원",
+    "category": "요양병원",
+    "tel": "031-977-8757",
+    "longitude": "126.8332467",
+    "latitude": "37.7004067",
+    "doctors": "가정의학과전문의 1명, 심장혈관흉부외과전문의 1명",
+    "address": "경기 고양시 일산동구 성현로377번길 128-4",
+    "webpage": "http://www.정안요양병원.kr/",
+    "subject": "가정의학과|||심장혈관흉부외과|||내과|||사상체질과|||신경과|||정형외과|||침구과|||한방내과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "10:00 - 18:00"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "10:00 - 18:00"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 18:00"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "다나은요양병원",
+    "category": "요양병원",
+    "tel": "0507-1458-1360",
+    "longitude": "126.7789872",
+    "latitude": "37.7004559",
+    "doctors": "방사선종양학과전문의 1명",
+    "address": "경기 고양시 일산동구 고봉로 467-57 가동 지하1층~지상3층",
+    "webpage": "http://danaeun.co.kr/",
+    "subject": "방사선종양학과|||한방내과|||내과|||신경과|||신경외과|||외과|||재활의학과|||정형외과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 20:00"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 20:00"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 20:00"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정기휴무 (매주 일요일)"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 20:00"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 20:00"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "일산한울요양병원",
+    "category": "요양병원",
+    "tel": "031-975-3700",
+    "longitude": "126.7772182",
+    "latitude": "37.6851029",
+    "doctors": "외과전문의 2명",
+    "address": "경기 고양시 일산서구 고봉로 291 에이스스타디움",
+    "webpage": "http://www.hanulhospital.co.kr/",
+    "subject": "외과|||내과|||재활의학과|||침구과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 16:30"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 16:30"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 16:30"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "정기휴무 (매주 토요일)"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정기휴무 (매주 일요일)"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 16:30"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 16:30"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "의료법인에덴재단행복한요양병원",
+    "category": "요양병원",
+    "tel": "031-963-5600",
+    "longitude": "126.8645475",
+    "latitude": "37.7231257",
+    "doctors": "정보 수정 제안하기",
+    "address": "경기 고양시 덕양구 내유길 146-19",
+    "webpage": "http://www.happysch.co.kr",
+    "subject": "내과|||신경과|||재활의학과|||침구과|||한방내과|||한방재활의학과",
+    "clinicHoursList": [
+      {
+        "weekName": "매일",
+        "weekTime": "10:00 - 15:00\n12:00 - 13:00 휴게시간"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "일산리더스요양병원",
+    "category": "요양병원",
+    "tel": "031-962-0050",
+    "longitude": "126.8075370",
+    "latitude": "37.6745785",
+    "doctors": "이용시간을 알려주세요.\n추가",
+    "address": "경기 고양시 일산동구 위시티로 18 동국타워",
+    "webpage": "http://ilsanleaders.co.kr/",
+    "subject": "가정의학과|||내과|||침구과|||한방내과",
+    "clinicHoursList": []
+  },
+  {
+    "id": 25,
+    "title": "메디누리요양병원",
+    "category": "요양병원",
+    "tel": "031-925-7575",
+    "longitude": "126.7630329",
+    "latitude": "37.6920181",
+    "doctors": "신경외과전문의 1명, 외과전문의 1명",
+    "address": "경기 고양시 일산서구 일현로 53 메디누리",
+    "webpage": "http://medinuri.co.kr",
+    "subject": "신경외과|||외과|||가정의학과|||내과|||비뇨의학과|||재활의학과|||정형외과|||침구과|||피부과|||한방내과|||한방부인과|||한방신경정신과|||한방안·이비인후·피부과|||한방재활의학과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 18:00\n12:30 - 13:30 휴게시간"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 18:00\n12:30 - 13:30 휴게시간"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 18:00\n12:30 - 13:30 휴게시간"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "09:00 - 13:00"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정기휴무 (매주 일요일)"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 18:00\n12:30 - 13:30 휴게시간"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 18:00\n12:30 - 13:30 휴게시간"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "효그린요양병원",
+    "category": "요양병원",
+    "tel": "031-979-0808",
+    "longitude": "126.8426343",
+    "latitude": "37.6194397",
+    "doctors": "가정의학과전문의 2명, 내과전문의 1명",
+    "address": "경기 고양시 덕양구 중앙로 478 행신미원프라자",
+    "webpage": "http://www.hyogreen.com/",
+    "subject": "가정의학과|||내과|||비뇨의학과|||사상체질과|||소아청소년과|||신경과|||외과|||이비인후과|||재활의학과|||정신건강의학과|||침구과|||피부과|||한방내과|||한방소아과|||한방재활의학과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:30 - 18:30"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:30 - 18:30"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:30 - 18:30"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "정기휴무 (매주 토요일)"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정기휴무 (매주 일요일)"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:30 - 18:30"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:30 - 18:30"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "동국마음요양병원",
+    "category": "요양병원",
+    "tel": "031-811-9900",
+    "longitude": "126.8013215",
+    "latitude": "37.6672206",
+    "doctors": "가정의학과전문의 2명, 재활의학과전문의 1명",
+    "address": "경기 고양시 일산동구 숲속마을로 18 웰빙타운",
+    "webpage": null,
+    "subject": "가정의학과|||재활의학과|||한방재활의학과|||내과|||외과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "정기휴무 (매주 토요일)"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정기휴무 (매주 일요일)"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 18:00"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "삼성요양병원",
+    "category": "요양병원",
+    "tel": "031-972-5678",
+    "longitude": "126.8240908",
+    "latitude": "37.6261199",
+    "doctors": null,
+    "address": "경기 고양시 덕양구 지도로 100",
+    "webpage": "http://www.samsung-care.com/",
+    "subject": "내과|||비뇨의학과|||신경과|||이비인후과|||재활의학과|||침구과|||피부과|||한방내과|||한방부인과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 17:30"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 17:30"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 17:30"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "09:00 - 13:00"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정보없음"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 17:30"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 17:30"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "title": "일산호수요양병원",
+    "category": "요양병원",
+    "tel": "031-903-8275",
+    "longitude": "126.7680799",
+    "latitude": "37.6596790",
+    "doctors": "정보 수정 제안하기",
+    "address": "경기 고양시 일산동구 호수로 646-24 위너스21-II",
+    "webpage": "http://www.onnuri24.com/",
+    "subject": "내과|||소아청소년과|||신경과|||신경외과|||재활의학과|||정형외과|||침구과|||한방내과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "10:00 - 17:00"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "10:00 - 17:00"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "10:00 - 17:00"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "정기휴무 (매주 토요일)"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정기휴무 (매주 일요일)"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "10:00 - 17:00"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "10:00 - 17:00"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "title": "착한요양병원",
+    "category": "요양병원",
+    "tel": "031-1877-7288",
+    "longitude": "126.7702719",
+    "latitude": "37.6869044",
+    "doctors": "정보 수정 제안하기",
+    "address": "경기 고양시 일산서구 원일로 69 씨티프라자",
+    "webpage": "http://chakhanhospital.com/",
+    "subject": "",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 17:00"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 17:00"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 17:00"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "09:00 - 12:00"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정보없음"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 17:00"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 17:00"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "title": "일산복음재활병원",
+    "category": "병원,의원",
+    "tel": "031-977-6633",
+    "longitude": "126.7803898",
+    "latitude": "37.6817918",
+    "doctors": "재활의학과전문의 6명",
+    "address": "경기 고양시 일산동구 고양대로 760 나동 6,7, 8, 9 10층",
+    "webpage": "http://www.isgrh.co.kr",
+    "subject": "재활의학과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 17:30\n12:30 - 13:30 휴게시간"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 17:30\n12:30 - 13:30 휴게시간"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 17:30\n12:30 - 13:30 휴게시간"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "09:00 - 12:30"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정보없음"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 17:30\n12:30 - 13:30 휴게시간"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 17:30\n12:30 - 13:30 휴게시간"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "title": "바로요양병원",
+    "category": "병원,의원",
+    "tel": "02-6401-9988",
+    "longitude": "126.9153673",
+    "latitude": "37.6494055",
+    "doctors": "신경외과전문의 1명, 외과전문의 1명 외 전문의 1명",
+    "address": "경기 고양시 덕양구 지축로 66 4~10층",
+    "webpage": "https://baro-hospital.com/",
+    "subject": "신경외과|||외과|||재활의학과|||가정의학과|||내과|||마취통증의학과|||산부인과|||성형외과|||신경과|||심장혈관흉부외과|||응급의학과|||정신건강의학과|||정형외과|||진단검사의학과|||침구과|||한방내과|||한방부인과|||한방소아과|||한방신경정신과|||한방안·이비인후·피부과|||한방재활의학과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "09:00 - 13:00"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "09:00 - 13:00"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 18:00"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "title": "노블케어 요양원",
+    "category": "요양원,요양센터",
+    "tel": "0507-1411-5490",
+    "longitude": "126.7811289",
+    "latitude": "37.6936697",
+    "doctors": "정보 수정 제안하기",
+    "address": "경기 고양시 일산동구 탄중로 325-7 올림피아 빌딩 5층",
+    "webpage": "http://www.noble-care.co.kr/",
+    "subject": "",
+    "clinicHoursList": [
+      {
+        "weekName": "매일",
+        "weekTime": "00:00 - 24:00"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "title": "동원요양병원주차장입구",
+    "category": "방면정보",
+    "tel": "",
+    "longitude": "126.7780422",
+    "latitude": "37.6728324",
+    "doctors": "이 장소의 관리자라면,\n무료로 직접 관리하세요!\n권한 받기",
+    "address": "경기 고양시 일산동 정발산동",
+    "webpage": null,
+    "subject": "",
+    "clinicHoursList": []
+  },
+  {
+    "id": 35,
+    "title": "동원요양병원입구",
+    "category": "방면정보",
+    "tel": "",
+    "longitude": "126.7779904",
+    "latitude": "37.6731120",
+    "doctors": "이 장소의 관리자라면,\n무료로 직접 관리하세요!\n권한 받기",
+    "address": "경기 고양시 일산동 정발산동",
+    "webpage": null,
+    "subject": "",
+    "clinicHoursList": []
+  },
+  {
+    "id": 36,
+    "title": "동원요양병원입구",
+    "category": "방면정보",
+    "tel": "",
+    "longitude": "126.7781968",
+    "latitude": "37.6730262",
+    "doctors": "이 장소의 관리자라면,\n무료로 직접 관리하세요!\n권한 받기",
+    "address": "경기 고양시 일산동 정발산동",
+    "webpage": null,
+    "subject": "",
+    "clinicHoursList": []
+  },
+  {
+    "id": 37,
+    "title": "한마음노인전문요양센터",
+    "category": "요양원,요양센터",
+    "tel": "031-975-9533",
+    "longitude": "126.8324430",
+    "latitude": "37.7010151",
+    "doctors": "정보 수정 제안하기",
+    "address": "경기 고양시 일산동구 성현로377번길 128-1",
+    "webpage": "http://www.hanmind1004.com",
+    "subject": "",
+    "clinicHoursList": []
+  },
+  {
+    "id": 38,
+    "title": "일산차병원 양한방 암통합진료센터",
+    "category": "종합병원",
+    "tel": "031-782-3100",
+    "longitude": "126.7754074",
+    "latitude": "37.6542379",
+    "doctors": null,
+    "address": "경기 고양시 일산동구 중앙로 1205 일산차병원 양한방 암통합진료센터",
+    "webpage": "https://ilsanchacancercare.modoo.at/",
+    "subject": "",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "08:30 - 17:30\n12:30 - 13:30 휴게시간"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "08:30 - 17:30\n12:30 - 13:30 휴게시간"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "08:30 - 17:30\n12:30 - 13:30 휴게시간"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "08:30 - 12:30"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "08:30 - 12:30"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "08:30 - 17:30\n12:30 - 13:30 휴게시간"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "08:30 - 17:30\n12:30 - 13:30 휴게시간"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "title": "자성의원",
+    "category": "내과",
+    "tel": "031-904-1002",
+    "longitude": "126.7824233",
+    "latitude": "37.6680485",
+    "doctors": "외과전문의 1명",
+    "address": "경기 고양시 일산동구 일산로 368",
+    "webpage": "http://www.jsc1004.com",
+    "subject": "외과|||가정의학과|||내과|||신경과|||정형외과|||피부과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "08:30 - 17:00\n12:00 - 13:00 휴게시간"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "08:30 - 17:00\n12:00 - 13:00 휴게시간"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "08:30 - 17:00\n12:00 - 13:00 휴게시간"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "정기휴무 (매주 토요일)"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정기휴무 (매주 일요일)"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "08:30 - 17:00\n12:00 - 13:00 휴게시간"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "08:30 - 17:00\n12:00 - 13:00 휴게시간"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "title": "효누림요양원",
+    "category": "요양원,요양센터",
+    "tel": "031-975-3401",
+    "longitude": "126.8322622",
+    "latitude": "37.7018304",
+    "doctors": "정보 수정 제안하기",
+    "address": "경기 고양시 일산동구 성현로377번길 128",
+    "webpage": "http://효누림요양원.com/",
+    "subject": "",
+    "clinicHoursList": []
+  },
+  {
+    "id": 41,
+    "title": "베아투스 실버타운",
+    "category": "요양원,요양센터",
+    "tel": "0507-1366-1003",
+    "longitude": "126.7923631",
+    "latitude": "37.7195407",
+    "doctors": "이용시간을 알려주세요.\n추가",
+    "address": "경기 고양시 일산동구 고봉로770번길 112-11",
+    "webpage": "http://www.beatus.kr",
+    "subject": "",
+    "clinicHoursList": []
+  },
+  {
+    "id": 42,
+    "title": "가좌호수요양원",
+    "category": "요양원,요양센터",
+    "tel": "031-914-4860",
+    "longitude": "126.7221932",
+    "latitude": "37.6849996",
+    "doctors": "정보 수정 제안하기",
+    "address": "경기 고양시 일산서구 송산로 390 3,4층",
+    "webpage": null,
+    "subject": "",
+    "clinicHoursList": [
+      {
+        "weekName": "매일",
+        "weekTime": "00:00 - 24:00"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "title": "한나메디",
+    "category": "간병인",
+    "tel": "0507-1497-0267",
+    "longitude": "126.7503520",
+    "latitude": "37.6688188",
+    "doctors": null,
+    "address": "경기 고양시 일산서구 킨텍스로 255 오피스동 506호",
+    "webpage": null,
+    "subject": "",
+    "clinicHoursList": [
+      {
+        "weekName": "매일",
+        "weekTime": "09:00 - 19:00"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "title": "고양사랑방요양원",
+    "category": "요양원,요양센터",
+    "tel": "031-923-7582",
+    "longitude": "126.8348200",
+    "latitude": "37.6556541",
+    "doctors": "정보 수정 제안하기",
+    "address": "경기 고양시 덕양구 호국로 773 코스모프라자빌딩 7층 고양사랑방요양원",
+    "webpage": "https://blog.naver.com/srb7582",
+    "subject": "",
+    "clinicHoursList": [
+      {
+        "weekName": "매일",
+        "weekTime": "00:00 - 24:00"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "title": "일산차요양원2",
+    "category": "요양원,요양센터",
+    "tel": "0507-1375-2900",
+    "longitude": "126.7801872",
+    "latitude": "37.6942431",
+    "doctors": "정보 수정 제안하기",
+    "address": "경기 고양시 일산동구 탄중로 311-16 한진프라자 6층, 7층 일산차요양원2",
+    "webpage": "https://www.ilsancha2.com",
+    "subject": "",
+    "clinicHoursList": [
+      {
+        "weekName": "매일",
+        "weekTime": "00:00 - 24:00"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "title": "웰빙타운",
+    "category": "상가,아케이드",
+    "tel": "031-906-3387",
+    "longitude": "126.8014444",
+    "latitude": "37.6672752",
+    "doctors": null,
+    "address": "경기 고양시 일산동구 숲속마을로 18",
+    "webpage": null,
+    "subject": "",
+    "clinicHoursList": [
+      {
+        "weekName": "매일",
+        "weekTime": "00:00 - 24:00"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "title": "영림메디칼",
+    "category": "건강,의료용품",
+    "tel": "031-938-1888",
+    "longitude": "126.8176350",
+    "latitude": "37.7160042",
+    "doctors": null,
+    "address": "경기 고양시 일산동구 문원길 105-7",
+    "webpage": null,
+    "subject": "",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "정보없음"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정보없음"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 18:00"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "title": "중산요양센터",
+    "category": "재가노인요양센터",
+    "tel": "031-977-6113",
+    "longitude": "126.7801639",
+    "latitude": "37.6937027",
+    "doctors": "정보 수정 제안하기",
+    "address": "경기 고양시 일산동구 중산로 241 7층",
+    "webpage": "https://blog.naver.com/ss2690",
+    "subject": "",
+    "clinicHoursList": [
+      {
+        "weekName": "매일",
+        "weekTime": "00:00 - 24:00"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "title": "메디스쿨",
+    "category": "IT서비스",
+    "tel": "0507-1378-7110",
+    "longitude": "126.7867301",
+    "latitude": "37.6403535",
+    "doctors": null,
+    "address": "경기 고양시 일산동구 호수로 358-39 동문굿모닝타워1차 203~204호",
+    "webpage": "https://www.medischool.net/",
+    "subject": "",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 18:00\n12:00 - 13:00 휴게시간"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 18:00\n12:00 - 13:00 휴게시간"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 18:00\n12:00 - 13:00 휴게시간"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "정기휴무 (매주 토요일)"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정기휴무 (매주 일요일)"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 18:00\n12:00 - 13:00 휴게시간"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 18:00\n12:00 - 13:00 휴게시간"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "title": "우리더블유종합건설",
+    "category": "인테리어디자인",
+    "tel": "0507-1310-9104",
+    "longitude": "126.7504498",
+    "latitude": "37.6659014",
+    "doctors": "무료견적상담\n변동",
+    "address": "경기 고양시 일산서구 킨텍스로 240 GIFC빌딩 13층 1304호",
+    "webpage": "http://www.wrmarket.co.kr/",
+    "subject": "",
+    "clinicHoursList": [
+      {
+        "weekName": "매일",
+        "weekTime": "00:00 - 24:00"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "title": "코리아잡앤잡 인천경기서부지점",
+    "category": "애플리케이션개발",
+    "tel": "031-977-8750",
+    "longitude": "126.7801639",
+    "latitude": "37.6937027",
+    "doctors": null,
+    "address": "경기 고양시 일산동구 중산로 241 308호",
+    "webpage": "http://www.silvernote.com",
+    "subject": "",
+    "clinicHoursList": [
+      {
+        "weekName": "매일",
+        "weekTime": "00:00 - 24:00"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "title": "푸르메재단 넥슨어린이재활병원",
+    "category": "요양병원",
+    "tel": "02-6070-9000",
+    "longitude": "126.8805005",
+    "latitude": "37.5846285",
+    "doctors": "재활의학과전문의 4명, 소아청소년과전문의 1명 외 전문의 2명",
+    "address": "서울 마포구 월드컵북로 494",
+    "webpage": "http://www.purmehospital.org",
+    "subject": "재활의학과|||소아청소년과|||정신건강의학과|||통합치의학과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 18:00\n12:00 - 13:00 휴게시간"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 18:00\n12:00 - 13:00 휴게시간"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 18:00\n12:00 - 13:00 휴게시간"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "정기휴무 (매주 토요일)"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정기휴무 (매주 일요일)"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 18:00\n12:00 - 13:00 휴게시간"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 18:00\n12:00 - 13:00 휴게시간"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "title": "마포요양병원",
+    "category": "요양병원",
+    "tel": "0507-1484-8112",
+    "longitude": "126.9087400",
+    "latitude": "37.5641019",
+    "doctors": "가정의학과전문의 1명, 재활의학과전문의 1명",
+    "address": "서울 마포구 성산로4길 33 마포요양병원",
+    "webpage": "https://hospmapo.modoo.at/",
+    "subject": "가정의학과|||재활의학과|||내과|||사상체질과|||신경과|||신경외과|||정형외과|||침구과|||한방내과|||한방부인과|||한방소아과|||한방신경정신과|||한방안·이비인후·피부과|||한방재활의학과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "08:30 - 18:00\n12:00 - 13:00 휴게시간"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "08:30 - 18:00\n12:00 - 13:00 휴게시간"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "08:30 - 18:00\n12:00 - 13:00 휴게시간"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "08:30 - 13:00"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "08:30 - 13:00"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "08:30 - 18:00\n12:00 - 13:00 휴게시간"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "08:30 - 18:00\n12:00 - 13:00 휴게시간"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "title": "아미나요양병원",
+    "category": "요양병원",
+    "tel": "1533-5282",
+    "longitude": "126.9709127",
+    "latitude": "37.5722020",
+    "doctors": "산부인과전문의 1명",
+    "address": "서울 종로구 경희궁길 26",
+    "webpage": "http://www.aminahp.com",
+    "subject": "산부인과|||가정의학과|||내과|||침구과|||한방내과|||한방재활의학과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정기휴무 (매주 일요일)"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 18:00"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "title": "서울중앙요양병원",
+    "category": "요양병원",
+    "tel": "0507-1385-0999",
+    "longitude": "126.9655092",
+    "latitude": "37.5652244",
+    "doctors": "내과전문의 2명, 재활의학과전문의 1명",
+    "address": "서울 서대문구 충정로 71-5 서울빌딩 1층-5층",
+    "webpage": "http://www.sjch0999.co.kr",
+    "subject": "내과|||재활의학과|||한방부인과|||사상체질과|||외과|||침구과|||한방내과|||한방신경정신과|||한방안·이비인후·피부과|||한방재활의학과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 17:30"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 17:30"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 17:30"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "09:00 - 13:00"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정보없음"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 17:30"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 17:30"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "title": "운정서울대효요양병원",
+    "category": "요양병원",
+    "tel": "0507-1426-2100",
+    "longitude": "126.7627877",
+    "latitude": "37.7294517",
+    "doctors": "가정의학과전문의 2명, 재활의학과전문의 2명 외 전문의 2명",
+    "address": "경기 파주시 책향기로 830 5, 6, 7, 8, 9층 운정 서울대효병원",
+    "webpage": "http://www.seouldhw.co.kr/index.php",
+    "subject": "가정의학과|||재활의학과|||마취통증의학과|||산부인과|||내과|||신경과|||한방내과",
+    "clinicHoursList": []
+  },
+  {
+    "id": 57,
+    "title": "은평요양병원",
+    "category": "요양병원",
+    "tel": "02-384-2311",
+    "longitude": "126.9196722",
+    "latitude": "37.6262388",
+    "doctors": "신경외과전문의 2명, 가정의학과전문의 1명",
+    "address": "서울 은평구 통일로 933",
+    "webpage": "http://www.epyoyang.co.kr",
+    "subject": "신경외과|||가정의학과|||내과|||신경과|||외과|||재활의학과|||정형외과|||침구과|||피부과|||한방내과|||한방신경정신과|||한방재활의학과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "09:00 - 13:00"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정기휴무 (매주 일요일)"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 18:00"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "title": "연세에덴요양병원",
+    "category": "요양병원",
+    "tel": "02-1577-5046",
+    "longitude": "126.9334160",
+    "latitude": "37.6061939",
+    "doctors": "내과전문의 1명, 신경과전문의 1명",
+    "address": "서울 은평구 통일로 669",
+    "webpage": "http://연세에덴요양병원.kr",
+    "subject": "내과|||신경과|||가정의학과|||비뇨의학과|||신경외과|||심장혈관흉부외과|||외과|||이비인후과|||재활의학과|||정형외과|||침구과|||피부과|||한방내과|||한방재활의학과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "09:00 - 13:00"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정보없음"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 18:00"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "title": "에스엠씨요양병원",
+    "category": "요양병원",
+    "tel": "02-374-3111",
+    "longitude": "126.9099039",
+    "latitude": "37.5668811",
+    "doctors": "내과전문의 1명, 정형외과전문의 1명",
+    "address": "서울 마포구 월드컵북로 165 SMC",
+    "webpage": "http://www.seoulsmc.co.kr/",
+    "subject": "내과|||정형외과|||가정의학과|||병리과|||신경과|||신경외과|||영상의학과|||외과|||재활의학과",
+    "clinicHoursList": []
+  },
+  {
+    "id": 60,
+    "title": "운정포레스트요양병원",
+    "category": "요양병원",
+    "tel": "0507-1434-7824",
+    "longitude": "126.7618617",
+    "latitude": "37.7246452",
+    "doctors": "내과전문의 1명",
+    "address": "경기 파주시 와석순환로 507 월드타워9차 4, 5, 10층",
+    "webpage": "https://foresthospital.co.kr/unjung/main/main.html",
+    "subject": "내과|||병리과|||재활의학과|||한방내과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 18:00\n13:00 - 14:00 휴게시간"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 18:00\n13:00 - 14:00 휴게시간"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 18:00\n13:00 - 14:00 휴게시간"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "09:00 - 13:00"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정기휴무 (매주 일요일)"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 18:00\n13:00 - 14:00 휴게시간"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 18:00\n13:00 - 14:00 휴게시간"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "title": "하나효요양병원",
+    "category": "요양병원",
+    "tel": "02-356-7007",
+    "longitude": "126.9161387",
+    "latitude": "37.6116706",
+    "doctors": "가정의학과전문의 1명, 외과전문의 1명 외 전문의 2명",
+    "address": "서울 은평구 서오릉로 149 세웅그룹빌딩",
+    "webpage": "http://www.hanahyo.com",
+    "subject": "가정의학과|||외과|||재활의학과|||정신건강의학과|||내과|||신경과|||신경외과|||정형외과|||침구과|||한방내과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "09:00 - 13:00"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정기휴무 (매주 일요일)"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 18:00"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "title": "운정한강요양병원",
+    "category": "요양병원",
+    "tel": "031-942-6262",
+    "longitude": "126.7601217",
+    "latitude": "37.7157575",
+    "doctors": "가정의학과전문의 2명, 정형외과전문의 2명 외 전문의 1명",
+    "address": "경기 파주시 경의로 1102 유은타워 1차 7층",
+    "webpage": "http://www.hangangcare.kr/",
+    "subject": "가정의학과|||정형외과|||외과|||내과|||비뇨의학과|||사상체질과|||신경과|||신경외과|||침구과|||피부과|||한방내과|||한방부인과|||한방신경정신과|||한방안·이비인후·피부과|||한방재활의학과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 18:00\n17:30 접수마감"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 18:00\n17:30 접수마감"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 18:00\n17:30 접수마감"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "정기휴무 (매주 토요일)"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정기휴무 (매주 일요일)"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 18:00\n17:30 접수마감"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 18:00\n17:30 접수마감"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "title": "큰나무요양병원",
+    "category": "요양병원",
+    "tel": "0507-1392-2006",
+    "longitude": "126.7790328",
+    "latitude": "37.7183036",
+    "doctors": "정보 수정 제안하기",
+    "address": "경기 파주시 운정로 146-95 외1필지",
+    "webpage": "https://open.kakao.com/o/slLNlo4b",
+    "subject": "가정의학과|||내과|||신경과|||신경외과|||외과|||재활의학과|||정신건강의학과|||정형외과|||침구과|||한방내과|||한방재활의학과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 18:00\n12:00 - 13:00 휴게시간"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 18:00\n12:00 - 13:00 휴게시간"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 18:00\n12:00 - 13:00 휴게시간"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "09:00 - 15:00"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정기휴무 (매주 일요일)"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 18:00\n12:00 - 13:00 휴게시간"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 18:00\n12:00 - 13:00 휴게시간"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "title": "강북연세요양병원",
+    "category": "요양병원",
+    "tel": "02-335-2277",
+    "longitude": "126.9276697",
+    "latitude": "37.5661223",
+    "doctors": "이용시간을 알려주세요.\n추가",
+    "address": "서울 서대문구 성산로 335",
+    "webpage": null,
+    "subject": "가정의학과|||비뇨의학과|||신경외과|||재활의학과|||내과|||산부인과|||신경과|||심장혈관흉부외과|||외과|||이비인후과|||정형외과|||한방내과",
+    "clinicHoursList": []
+  },
+  {
+    "id": 65,
+    "title": "플러스요양병원",
+    "category": "요양병원",
+    "tel": "1660-4260",
+    "longitude": "127.0039650",
+    "latitude": "37.6083346",
+    "doctors": "가정의학과전문의 1명, 내과전문의 1명 외 전문의 1명",
+    "address": "서울 성북구 솔샘로1길 19 1~6층",
+    "webpage": "http://www.plushp.co.kr/",
+    "subject": "가정의학과|||내과|||마취통증의학과|||비뇨의학과|||산부인과|||소아청소년과|||신경과|||신경외과|||심장혈관흉부외과|||외과|||재활의학과|||정형외과|||침구과|||피부과|||한방내과|||한방부인과|||한방신경정신과|||한방안·이비인후·피부과|||한방재활의학과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 18:00\n12:20 - 13:20 휴게시간"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 18:00\n12:20 - 13:20 휴게시간"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 18:00\n12:20 - 13:20 휴게시간"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "09:00 - 13:00"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정기휴무 (매주 일요일)"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 18:00\n12:20 - 13:20 휴게시간"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 18:00\n12:20 - 13:20 휴게시간"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "title": "한국효요양병원",
+    "category": "요양병원",
+    "tel": "02-357-0357",
+    "longitude": "126.9266526",
+    "latitude": "37.6010396",
+    "doctors": "내과전문의 2명, 가정의학과전문의 1명 외 전문의 1명",
+    "address": "서울 은평구 은평로 170 상현빌딩 6, 7, 8층",
+    "webpage": "http://www.hankookhyo.com/",
+    "subject": "내과|||가정의학과|||재활의학과|||마취통증의학과|||비뇨의학과|||사상체질과|||신경과|||신경외과|||외과|||이비인후과|||정신건강의학과|||정형외과|||침구과|||피부과|||한방재활의학과",
+    "clinicHoursList": [
+      {
+        "weekName": "매일",
+        "weekTime": "00:00 - 24:00"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "title": "신촌힐링요양병원",
+    "category": "요양병원",
+    "tel": "0507-1382-7835",
+    "longitude": "126.9337821",
+    "latitude": "37.5797741",
+    "doctors": "영상의학과전문의 1명, 외과전문의 1명",
+    "address": "서울 서대문구 모래내로 330 미도빌딩",
+    "webpage": "http://schealing.co.kr/",
+    "subject": "영상의학과|||외과|||가정의학과|||내과|||마취통증의학과|||병리과|||소아청소년과|||신경과|||신경외과|||예방의학과|||응급의학과|||이비인후과|||재활의학과|||정신건강의학과|||정형외과|||진단검사의학과|||피부과|||한방내과|||한방신경정신과|||한방재활의학과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 18:00\n17:30 접수마감"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 18:00\n17:30 접수마감"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 18:00\n17:30 접수마감"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "09:00 - 13:00\n12:30 접수마감"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정기휴무 (매주 일요일)"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 18:00\n17:30 접수마감"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 18:00\n17:30 접수마감"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "title": "인천제2시립노인전문병원",
+    "category": "요양병원",
+    "tel": "032-554-8300",
+    "longitude": "126.7291203",
+    "latitude": "37.5748307",
+    "doctors": "이용시간을 알려주세요.\n추가",
+    "address": "인천 계양구 드림로 852",
+    "webpage": "http://hallymsh.net/",
+    "subject": "가정의학과|||내과|||신경외과|||사상체질과|||신경과|||외과|||재활의학과|||침구과|||한방내과|||한방부인과|||한방소아과|||한방신경정신과|||한방안·이비인후·피부과|||한방재활의학과",
+    "clinicHoursList": []
+  },
+  {
+    "id": 69,
+    "title": "이우요양병원",
+    "category": "요양병원",
+    "tel": "0507-1495-0703",
+    "longitude": "126.9321489",
+    "latitude": "37.6173258",
+    "doctors": "정보 수정 제안하기",
+    "address": "서울 은평구 불광로13길 15",
+    "webpage": "http://www.ewoohospital.com",
+    "subject": "",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "정보없음"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정보없음"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 18:00"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "title": "서온요양병원",
+    "category": "요양병원",
+    "tel": "1670-5101",
+    "longitude": "126.6634835",
+    "latitude": "37.6361459",
+    "doctors": "가정의학과전문의 1명, 신경외과전문의 1명 외 전문의 2명",
+    "address": "인천 서구 도곡로 172-5 서온요양병원",
+    "webpage": "http://www.seoonh.com",
+    "subject": "가정의학과|||신경외과|||재활의학과|||정형외과|||내과|||마취통증의학과|||외과|||침구과|||한방내과|||한방재활의학과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 18:00\n17:30 접수마감"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 18:00\n17:30 접수마감"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 18:00\n17:30 접수마감"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "09:00 - 13:00\n12:00 - 13:00 휴게시간\n12:30 접수마감"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정기휴무 (매주 일요일)"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 18:00\n17:30 접수마감"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 18:00\n17:30 접수마감"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "title": "의료법인동행의료재단 보리수요양병원",
+    "category": "요양병원",
+    "tel": "031-999-5800",
+    "longitude": "126.6760602",
+    "latitude": "37.6643230",
+    "doctors": "가정의학과전문의 1명, 신경외과전문의 1명",
+    "address": "경기 김포시 김포한강11로331번길 259 보리수요양병원",
+    "webpage": "http://www.보리수요양병원.com",
+    "subject": "가정의학과|||신경외과|||내과|||비뇨의학과|||신경과|||외과|||재활의학과|||정형외과|||한방내과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 17:30"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 17:30"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 17:30"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "정기휴무 (매주 토요일)"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정기휴무 (매주 일요일)"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 17:30"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 17:30"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "title": "파주드림요양병원",
+    "category": "요양병원",
+    "tel": "1600-8052",
+    "longitude": "126.7748319",
+    "latitude": "37.7580096",
+    "doctors": "내과전문의 1명, 신경외과전문의 1명 외 전문의 1명",
+    "address": "경기 파주시 시청로 6",
+    "webpage": "https://blog.naver.com/pajudream220607",
+    "subject": "내과|||신경외과|||재활의학과|||가정의학과|||비뇨의학과|||신경과|||외과|||정형외과|||침구과|||피부과",
+    "clinicHoursList": [
+      {
+        "weekName": "매일",
+        "weekTime": "00:00 - 24:00"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "title": "365강서수요양병원",
+    "category": "요양병원",
+    "tel": "0507-1387-0362",
+    "longitude": "126.8077314",
+    "latitude": "37.5729537",
+    "doctors": "정보 수정 제안하기",
+    "address": "서울 강서구 양천로 35",
+    "webpage": "http://care365gssoo.ad-media.kr/",
+    "subject": "내과|||외과|||가정의학과|||비뇨의학과|||신경과|||신경외과|||이비인후과|||정형외과|||침구과|||피부과|||한방내과|||한방부인과|||한방안·이비인후·피부과|||한방재활의학과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "정기휴무 (매주 토요일)"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정기휴무 (매주 일요일)"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 18:00"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 18:00"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "title": "나무요양병원",
+    "category": "요양병원",
+    "tel": "032-569-7175",
+    "longitude": "126.6970835",
+    "latitude": "37.5945552",
+    "doctors": "가정의학과전문의 1명, 내과전문의 1명",
+    "address": "인천 서구 고산후로121번길 19",
+    "webpage": "http://namoohospital.com",
+    "subject": "가정의학과|||내과|||비뇨의학과|||신경과|||신경외과|||외과|||정형외과|||피부과|||한방내과",
+    "clinicHoursList": [
+      {
+        "weekName": "수",
+        "weekTime": "09:00 - 21:00"
+      },
+      {
+        "weekName": "목",
+        "weekTime": "09:00 - 19:00"
+      },
+      {
+        "weekName": "금",
+        "weekTime": "09:00 - 19:00"
+      },
+      {
+        "weekName": "토",
+        "weekTime": "10:00 - 16:00"
+      },
+      {
+        "weekName": "일",
+        "weekTime": "정보없음"
+      },
+      {
+        "weekName": "월",
+        "weekTime": "09:00 - 19:00"
+      },
+      {
+        "weekName": "화",
+        "weekTime": "09:00 - 19:00"
+      }
+    ]
+  }
+]
